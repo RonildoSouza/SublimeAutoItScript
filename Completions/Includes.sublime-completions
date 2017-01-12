@@ -10,6 +10,7 @@
 	{ "trigger": "#include <GUIConstantsEx.au3>", "contents": "#include <GUIConstantsEx.au3>" },
 	{ "trigger": "#include <WindowsConstants.au3>", "contents": "#include <WindowsConstants.au3>" },
 	{ "trigger": "#include <MsgBoxConstants.au3>", "contents": "#include <MsgBoxConstants.au3>" },
+	{ "trigger": "#include <StringConstants.au3>", "contents": "#include <StringConstants.au3>" },
 	{ "trigger": "#include-once", "contents": "#include-once" }
 ]
 }

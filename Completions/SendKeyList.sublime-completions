@@ -29,7 +29,7 @@
 	{ "trigger": "F11 Send Key List", "contents": "{F11}" }, 
 	{ "trigger": "F12 Send Key List", "contents": "{F12}" }, 
 	{ "trigger": "TAB Send Key List", "contents": "{TAB}" }, 
-	{ "trigger": "LWIM Send Key List", "contents": "{LWIM}" }, 
+	{ "trigger": "LWIN Send Key List", "contents": "{LWIN}" }, 
 	{ "trigger": "RWIN Send Key List", "contents": "{RWIN}" }, 
 	{ "trigger": "NUMLOCK Send Key List", "contents": "{NUMLOCK}" }, 
 	{ "trigger": "CAPSLOCK Send Key List", "contents": "{CAPSLOCK}" }, 

@@ -1,0 +1,31 @@
+{
+	"scope": "source.autoit",
+	"completions": [
+	{ "trigger": "STR_NOCASESENSE StringCompare, StringInStr, StringReplace constants", "contents": "\\$STR_NOCASESENSE" },
+	{ "trigger": "STR_CASESENSE StringCompare, StringInStr, StringReplace constants", "contents": "\\$STR_CASESENSE" },
+	{ "trigger": "STR_NOCASESENSEBASIC StringCompare, StringInStr, StringReplace constants", "contents": "\\$STR_NOCASESENSEBASIC" },	
+	{ "trigger": "STR_STRIPLEADING StringStripWS Constants", "contents": "\\$STR_STRIPLEADING" },
+	{ "trigger": "STR_STRIPTRAILING StringStripWS Constants", "contents": "\\$STR_STRIPTRAILING" },
+	{ "trigger": "STR_STRIPSPACES StringStripWS Constants", "contents": "\\$STR_STRIPSPACES" },
+	{ "trigger": "STR_STRIPALL StringStripWS Constants", "contents": "\\$STR_STRIPALL" },	
+	{ "trigger": "STR_CHRSPLIT StringSplit Constants", "contents": "\\$STR_CHRSPLIT" },
+	{ "trigger": "STR_ENTIRESPLIT StringSplit Constants", "contents": "\\$STR_ENTIRESPLIT" },
+	{ "trigger": "STR_NOCOUNT StringSplit Constants", "contents": "\\$STR_NOCOUNT" },	
+	{ "trigger": "STR_REGEXPMATCH StringRegExp Constants", "contents": "\\$STR_REGEXPMATCH" },
+	{ "trigger": "STR_REGEXPARRAYMATCH StringRegExp Constants", "contents": "\\$STR_REGEXPARRAYMATCH" },
+	{ "trigger": "STR_REGEXPARRAYFULLMATCH StringRegExp Constants", "contents": "\\$STR_REGEXPARRAYFULLMATCH" },
+	{ "trigger": "STR_REGEXPARRAYGLOBALMATCH StringRegExp Constants", "contents": "\\$STR_REGEXPARRAYGLOBALMATCH" },
+	{ "trigger": "STR_REGEXPARRAYGLOBALFULLMATCH StringRegExp Constants", "contents": "\\$STR_REGEXPARRAYGLOBALFULLMATCH" },
+	{ "trigger": "STR_ENDISSTART _StringBetween Constants", "contents": "\\$STR_ENDISSTART" },	
+	{ "trigger": "STR_ENDNOTSTART _StringBetween Constants", "contents": "\\$STR_ENDNOTSTART" },	
+	{ "trigger": "SB_ANSI BinaryToString, StringToBinary constants", "contents": "\\$SB_ANSI" },
+	{ "trigger": "SB_UTF16LE BinaryToString, StringToBinary constants", "contents": "\\$SB_UTF16LE" },
+	{ "trigger": "SB_UTF16BE BinaryToString, StringToBinary constants", "contents": "\\$SB_UTF16BE" },	
+	{ "trigger": "SB_UTF8 BinaryToString, StringToBinary constants", "contents": "\\$SB_UTF8" },
+	{ "trigger": "SE_UTF16 StringFromASCIIArray constants", "contents": "\\$SE_UTF16" },
+	{ "trigger": "SE_ANSI StringFromASCIIArray constants", "contents": "\\$SE_ANSI" },	
+	{ "trigger": "SE_UTF8 StringFromASCIIArray constants", "contents": "\\$SE_UTF8" },
+	{ "trigger": "STR_UTF16 StringReverse Constants", "contents": "\\$STR_UTF16" },
+	{ "trigger": "STR_UCS2 StringReverse Constants", "contents": "\\$STR_UCS2" }
+	]
+}
